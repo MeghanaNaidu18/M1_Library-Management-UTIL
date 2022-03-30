@@ -18,6 +18,10 @@ The project titled Library Management System is Library management software for 
 
 [![Unit-Testing](https://github.com/MeghanaNaidu18/M1_Library-Management-UTIL/actions/workflows/testing.yml/badge.svg)](https://github.com/MeghanaNaidu18/M1_Library-Management-UTIL/actions/workflows/testing.yml)
 
+## Cpp-Check
+
+[![Cpp](https://github.com/MeghanaNaidu18/M1_Library-Management-UTIL/actions/workflows/Cpp.yml/badge.svg)](https://github.com/MeghanaNaidu18/M1_Library-Management-UTIL/actions/workflows/Cpp.yml)
+
 ## CI-Badge
 
 [![CI](https://github.com/MeghanaNaidu18/M1_Library-Management-UTIL/actions/workflows/CI.yml/badge.svg)](https://github.com/MeghanaNaidu18/M1_Library-Management-UTIL/actions/workflows/CI.yml)

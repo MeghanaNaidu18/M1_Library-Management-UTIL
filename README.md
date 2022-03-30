@@ -37,9 +37,9 @@ The project titled Library Management System is Library management software for 
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/87cd1233f1ed471a917ccbba53245733)](https://www.codacy.com/gh/MeghanaNaidu18/M1_Library-Management-UTIL/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=MeghanaNaidu18/M1_Library-Management-UTIL&amp;utm_campaign=Badge_Grade)
 
+## Code Inspector
 
-
-
+![Screenshot (30)](https://user-images.githubusercontent.com/86409323/160807836-04488257-c3d3-4f6a-82b5-3a8c8acf6dfc.png)
 
 
 ## Folder Structure

@@ -29,7 +29,9 @@ The project titled Library Management System is Library management software for 
 [![CI](https://github.com/MeghanaNaidu18/M1_Library-Management-UTIL/actions/workflows/CI.yml/badge.svg)](https://github.com/MeghanaNaidu18/M1_Library-Management-UTIL/actions/workflows/CI.yml)
 
 
+## Codiga and Codacy Badges
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/87cd1233f1ed471a917ccbba53245733)](https://www.codacy.com/gh/MeghanaNaidu18/M1_Library-Management-UTIL/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=MeghanaNaidu18/M1_Library-Management-UTIL&amp;utm_campaign=Badge_Grade)
 
 
 

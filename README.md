@@ -10,6 +10,10 @@ The project titled Library Management System is Library management software for 
 
 [![Build Linux](https://github.com/MeghanaNaidu18/M1_Library-Management-UTIL/actions/workflows/Linux.yml/badge.svg)](https://github.com/MeghanaNaidu18/M1_Library-Management-UTIL/actions/workflows/Linux.yml)
 
+## Valgrind
+
+[![Valgrind](https://github.com/MeghanaNaidu18/M1_Library-Management-UTIL/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/MeghanaNaidu18/M1_Library-Management-UTIL/actions/workflows/Valgrind.yml)
+
 ## CI-Badge
 
 [![CI](https://github.com/MeghanaNaidu18/M1_Library-Management-UTIL/actions/workflows/CI.yml/badge.svg)](https://github.com/MeghanaNaidu18/M1_Library-Management-UTIL/actions/workflows/CI.yml)
